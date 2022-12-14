@@ -1,6 +1,6 @@
-# IMPORTANTE 
-## Se tiene que añadir en el fichero .zshrc del directorio del usuario que tengas en tu kali y en el del usuario ROOT.
-## Hay que instalar el paquete xclip para que se puedan copiar los puertos a la clipboard, para ello usar el siguiente comando
+## IMPORTANTE ##
+# Se tiene que añadir en el fichero .zshrc del directorio del usuario que tengas en tu kali y en el del usuario ROOT.
+# Hay que instalar el paquete xclip para que se puedan copiar los puertos a la clipboard, para ello usar el siguiente comando
 sudo apt install xclip
 
 # Extract NMAP information
