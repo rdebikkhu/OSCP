@@ -1,3 +1,7 @@
+## IMPORTANTE ##
+# Si quieres ejecutar este Script sin tener que poner el pyhton3 delante de whichSystem.py debes introducirlo en /usr/sbin/whichSystem.py
+#################
+
 #!/usr/bin/python3
 #coding: utf-8
 
